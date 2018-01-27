@@ -24,3 +24,8 @@ def supported_output():
 @app.route('/tomasz')
 def imie():
     print(moje_imie)
+
+
+@app.route('/data')
+def teraz():
+    print(now.date)
