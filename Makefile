@@ -14,6 +14,12 @@ test:
 		PYTHONPATH=. py.test
 		PYTHONPATH=. py.test  --verbose -s
 
+test_cov:
+
+
+test_xunit:
+
+
 docker_build:
 		docker build -t hello-world-printer .
 
