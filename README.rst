@@ -87,4 +87,5 @@ Badge Travis i StatusCake
 .. image:: https://travis-ci.org/Rosstester/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/Rosstester/se_hello_printer_app
 
-  
+.. image:: https://app.statuscake.com/button/index.php?Track=QGE7wXir66&Days=1&Design=6
+        :target: https://travis-ci.org/Rosstester/se_hello_printer_app
